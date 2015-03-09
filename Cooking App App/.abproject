@@ -1,0 +1,40 @@
+{
+  "ProjectName": "Cooking App App",
+  "ProjectGuid": "4177bb1f-b2d5-476b-a209-762a6cb43dd9",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.CookingAppApp",
+  "DisplayName": "Cooking App App",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{65516711-9273-4709-a625-9e06c37e1173}",
+  "WP8ProductID": "{8d200b41-de2d-4495-898c-427d7db82ebb}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.CookingAppApp",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
